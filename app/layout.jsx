@@ -1,6 +1,8 @@
 import "./globals.css";
 import { Inter } from "next/font/google";
 
+// Google font
+// Inter is the font name.
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
